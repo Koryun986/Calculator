@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Koryun</string>
+    <string name="oncreated">Activity Create</string>
+    <string name="onstart">Activity Start</string>
+    <string name="onresume">Activity Resume</string>
+    <string name="onStop">Activity Stop</string>
+    <string name="onrestart">Activity Restart</string>
+    <string name="ondestroy">Activity Destroy</string>
+    <string name="onpause">Activity Pause</string>
+</resources>
